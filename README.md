@@ -28,16 +28,16 @@
 **Frontend**
 
 - <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" style="zoom:80%;" /><img src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript" style="zoom:80%;"/><img src="https://img.shields.io/badge/Recoil-003545?style=for-the-badge&logoColor=white" alt="MariaDB" style="zoom:80%;" />
-- <img src="https://img.shields.io/badge/styled_components-#DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=black" alt="styled_components" style="zoom:80%;" /><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" style="zoom:80%;" /><img src="https://img.shields.io/badge/Chart.js-#FF6384.svg?style=for-the-badge&logo=Chart.js&logoColor=black" alt="Chart.js" style="zoom:80%;" />
+- <img src="https://img.shields.io/badge/styled_components-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=black" alt="styled_components" style="zoom:80%;" /><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" style="zoom:80%;" /><img src="https://img.shields.io/badge/Chart.js-FF6384.svg?style=for-the-badge&logo=Chart.js&logoColor=black" alt="Chart.js" style="zoom:80%;" />
 
 **Backend**
 
-- <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white" style="zoom:80%;"/><img alt="Django" src ="https://img.shields.io/badge/Django-#092E20.svg?&style=for-the-badge&logo=Django&logoColor=white" style="zoom:80%;"/><img alt="MySQL" src ="https://img.shields.io/badge/MySQL-#4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white" style="zoom:80%;"/><img alt="Swagger" src ="https://img.shields.io/badge/Swagger-#85EA2D.svg?&style=for-the-badge&logo=Swagger&logoColor=white" style="zoom:80%;"/>
-- <img alt="Docker" src ="https://img.shields.io/badge/Docker-#2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=black" style="zoom:80%;"/><img alt="NGINX" src ="https://img.shields.io/badge/NGINX-#009639.svg?&style=for-the-badge&logo=NGINX&logoColor=black" style="zoom:80%;"/><img alt="Jenkins" src ="https://img.shields.io/badge/Jenkins-#D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=black" style="zoom:80%;"/>
+- <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white" style="zoom:80%;"/><img alt="Django" src ="https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white" style="zoom:80%;"/><img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white" style="zoom:80%;"/><img alt="Swagger" src ="https://img.shields.io/badge/Swagger-85EA2D.svg?&style=for-the-badge&logo=Swagger&logoColor=white" style="zoom:80%;"/>
+- <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=black" style="zoom:80%;"/><img alt="NGINX" src ="https://img.shields.io/badge/NGINX-009639.svg?&style=for-the-badge&logo=NGINX&logoColor=black" style="zoom:80%;"/><img alt="Jenkins" src ="https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=black" style="zoom:80%;"/>
 
 **Big Data Analysis**
 
-- <img alt="pandas" src ="https://img.shields.io/badge/pandas-#150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" style="zoom:80%;"/><img alt="Jupyter" src ="https://img.shields.io/badge/Jupyter-#F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" style="zoom:80%;"/>
+- <img alt="pandas" src ="https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" style="zoom:80%;"/><img alt="Jupyter" src ="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" style="zoom:80%;"/>
 
 
 
@@ -59,16 +59,17 @@
 
 - **보험담보정보: 보험계약의 세부담보 코드** 및 **금액** 포함
 
-```json
-💡담보란?
-보험 상품 가입을 위해 선택할 수 있는 **개별 계약 내용**을 의미합니다. 
-일반적으로 ‘암보험’이 라고 표현하는 상품에는 ‘암 진단비’, ‘암 입원 일당’, ‘암 사망’ 등 
-암 발병 후 사고 처리를 위한 **개별 담보**를 선택할 수 있습니다. 
-암 진단비는 ‘약관에서 정하는 암 진단을 받으면 보험금을 받을 수 있는 담보’를 뜻하는 것으로, 
-**계약 시 해당 담보를 선택하지 않았다면 사고 후 관련 보험금을 받을 수 없습니다.** 
-따라서, 담보 구성은 보험 상품에서 우리가 선택할 수 있는 개별 계약 옵션 설계를 통해 
-선택한 결과를 의미합니다.
-```
+> ```json
+> 💡담보란?
+> 보험 상품 가입을 위해 선택할 수 있는 개별 계약 내용을 의미합니다. 
+> 일반적으로 ‘암보험’이 라고 표현하는 상품에는 ‘암 진단비’, ‘암 입원 일당’, ‘암 사망’ 등 
+> 암 발병 후 사고 처리를 위한 개별 담보를 선택할 수 있습니다. 
+> 암 진단비는 ‘약관에서 정하는 암 진단을 받으면 보험금을 받을 수 있는 담보’를 뜻하는 것으로, 
+> 계약 시 해당 담보를 선택하지 않았다면 사고 후 관련 보험금을 받을 수 없습니다. 
+> 따라서, 담보 구성은 보험 상품에서 우리가 선택할 수 있는 개별 계약 옵션 설계를 통해 
+> 선택한 결과를 의미합니다.
+> ```
+>
 
 ![보험담보정보](https://user-images.githubusercontent.com/56299114/170535478-809869b9-004a-41db-abb9-c5c586b6c2d7.png)
 ![보험코드](https://user-images.githubusercontent.com/56299114/170535487-488bb326-ef17-407f-911f-1429dfa6613f.png)
