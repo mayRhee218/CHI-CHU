@@ -11,7 +11,7 @@
 
 #### 👆클릭 시 Chi Chu 소개 UCC 영상으로 이동!
 
-[![잠시만요](https://user-images.githubusercontent.com/56299114/169869838-92a86c6f-d7d9-4d2c-ba3a-b72c15653d53.gif)](https://www.youtube.com/watch?v=PecaFVn66D8)
+[![잠시만요](https://user-images.githubusercontent.com/56299114/169869838-92a86c6f-d7d9-4d2c-ba3a-b72c15653d53.gif)](https://youtu.be/4GcdKajfOug)
 
 
 
