@@ -26,17 +26,17 @@ The name "Chi Chu" is derived from the Korean words for "Chi" (tooth) and "Chu" 
 
 **Frontend**
 
-- ![React Badge] ![TypeScript Badge] ![Recoil Badge]  
-- ![Styled Components Badge] ![JavaScript Badge] ![Chart.js Badge]
+- <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" style="zoom:80%;" /><img src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript" style="zoom:80%;"/><img src="https://img.shields.io/badge/Recoil-003545?style=for-the-badge&logoColor=white" alt="MariaDB" style="zoom:80%;" />
+- <img src="https://img.shields.io/badge/styled_components-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=black" alt="styled_components" style="zoom:80%;" /><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" style="zoom:80%;" /><img src="https://img.shields.io/badge/Chart.js-FF6384.svg?style=for-the-badge&logo=Chart.js&logoColor=black" alt="Chart.js" style="zoom:80%;" />
 
 **Backend**
 
-- ![Python Badge] ![Django Badge] ![MySQL Badge] ![Swagger Badge]  
-- ![Docker Badge] ![NGINX Badge] ![Jenkins Badge]
+- <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white" style="zoom:80%;"/><img alt="Django" src ="https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white" style="zoom:80%;"/><img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white" style="zoom:80%;"/><img alt="Swagger" src ="https://img.shields.io/badge/Swagger-85EA2D.svg?&style=for-the-badge&logo=Swagger&logoColor=white" style="zoom:80%;"/>
+- <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=black" style="zoom:80%;"/><img alt="NGINX" src ="https://img.shields.io/badge/NGINX-009639.svg?&style=for-the-badge&logo=NGINX&logoColor=black" style="zoom:80%;"/><img alt="Jenkins" src ="https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=black" style="zoom:80%;"/>
 
 **Big Data Analysis**
 
-- ![Pandas Badge] ![Jupyter Badge]
+- <img alt="pandas" src ="https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" style="zoom:80%;"/><img alt="Jupyter" src ="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" style="zoom:80%;"/>
 
 ---
 
