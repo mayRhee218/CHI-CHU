@@ -144,3 +144,7 @@ Data was obtained from the [Open Financial Big Data System](https://credb.kcredi
 - A visual coverage guide that explains which coverage is needed in different situations
 
 ![Tips Cards](https://user-images.githubusercontent.com/56299114/169866222-e71d2e08-566f-4d48-831a-6fb144d39b7d.gif)
+
+
+### Google Analytics (for user analysing)
+<img width="1920" height="981" alt="image" src="https://github.com/user-attachments/assets/96284d59-7282-4c0d-803d-2177136ccab3" />
